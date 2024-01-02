@@ -3,6 +3,8 @@
 Visual studio code does not like to recoginze changes made to the specific 
 README.md without refreshing the the page. Fun. Why no idea but everything seems to be working. 
 
+In efforts to try and create a bash script to automate updates i found out there is a command to ignore commits called ".gitignore" thats cool.
+
 # UPDATE 
 
 You gotta save it. Like literally go into files and save your changes it 
